@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate | Computer Science and Engineering | ML/AI/IOT
 
 # Organizations/Affiliations to show in About widget
 organizations:
