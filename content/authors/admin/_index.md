@@ -89,7 +89,9 @@ highlight_name: true
 I am currently a final-year Ph.D. student in Computer Science and Engineering at the University of Connecticut 
 in [Laboratory of Machine Learning & Health Informatics](https://healthinfo.lab.uconn.edu/), working on 
 <b> Machine Learning (ML) </b> / <b>Artificial Intelligence (AI)</b> in the <b> Internet of Things (IoT)</b> 
-supervised by Prof. [Jinbo Bi](https://jinbo-bi.uconn.edu/). 
+supervised by Prof. [Jinbo Bi](https://jinbo-bi.uconn.edu/). Before that, I was working on Underwater 
+Acoustic Sensor Networks (UWSAN) in Tianjin University supervised by Prof. Zhigang Jin. I received M.S. 
+degree and B.S. degree in Electrical Engineering.
 
 My research interests include: Reinforcement Learning, 
 Federated Learning, On-Device Learning, Computer Vision, Contrastive Learning, Representation Learning;
