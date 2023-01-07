@@ -89,6 +89,6 @@ highlight_name: true
 I am currently a final-year Ph.D. student in Computer Science and Engineering at the University of Connecticut 
 in [Laboratory of Machine Learning & Health Informatics](https://healthinfo.lab.uconn.edu/) working on Machine Learning (ML) and Artificial Intelligence (AI) in the Internet of Things (IoT) supervised by 
 Prof. [Jinbo Bi](https://jinbo-bi.uconn.edu/). My Research interest includes Reinforcement Learning, 
-Federated Learning, Contrastive Learning, Computer Vision, Internet of Things (IoT), 
-Location-based Services (LBS), Edge Computing, and Remote Sensing Imagery, etc.
+Federated Learning, On-Device Learning, Computer Vision, Contrastive Learning, Representation Learning;
+Location-based Services (LBS), Edge Computing, Data Privacy, Remote Sensing Imagery, Smart City, Mobile Computing, Wireless Networks.
 {style="text-align: justify;"}
