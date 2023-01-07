@@ -87,6 +87,6 @@ highlight_name: true
 ---
 
 I am currently a final-year Ph.D. student in Computer Science and Engineering at the University of Connecticut 
-in [Laboratory of Machine Learning & Health Informatics](https://healthinfo.lab.uconn.edu/) working on Machine Learning and Artificial Intelligence in the Internet of Things supervised by 
+in [Laboratory of Machine Learning & Health Informatics](https://healthinfo.lab.uconn.edu/) working on Machine Learning (ML) and Artificial Intelligence (AI) in the Internet of Things (IoT) supervised by 
 Prof. [Jinbo Bi](https://jinbo-bi.uconn.edu/). 
 {style="text-align: justify;"}
